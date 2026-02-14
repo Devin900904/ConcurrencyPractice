@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CoroutinesDemo1">
         <activity
-            android:name=".MainActivity"
+            android:name="tw.cheng.suspenddemo.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.CoroutinesDemo1">

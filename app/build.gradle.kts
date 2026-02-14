@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.coroutinesdemo1"
+    namespace = "tw.cheng.coroutinesdemo1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.coroutinesdemo1"
+        applicationId = "tw.cheng.coroutinesdemo1"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
